@@ -1,0 +1,14 @@
+/Users/cbm010/__dev/csharp/bin/Debug/net8.0/csharp
+/Users/cbm010/__dev/csharp/bin/Debug/net8.0/csharp.deps.json
+/Users/cbm010/__dev/csharp/bin/Debug/net8.0/csharp.runtimeconfig.json
+/Users/cbm010/__dev/csharp/bin/Debug/net8.0/csharp.dll
+/Users/cbm010/__dev/csharp/bin/Debug/net8.0/csharp.pdb
+/Users/cbm010/__dev/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cbm010/__dev/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/Users/cbm010/__dev/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/Users/cbm010/__dev/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/Users/cbm010/__dev/csharp/obj/Debug/net8.0/csharp.dll
+/Users/cbm010/__dev/csharp/obj/Debug/net8.0/refint/csharp.dll
+/Users/cbm010/__dev/csharp/obj/Debug/net8.0/csharp.pdb
+/Users/cbm010/__dev/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/Users/cbm010/__dev/csharp/obj/Debug/net8.0/ref/csharp.dll
