@@ -42,6 +42,12 @@ namespace Animals {
                 uColor: "brown", true, 12.5, "neigh"
             );
             neigh.horseProperties();
+
+            TestGetSet tgs = new TestGetSet();
+            tgs.CheckEnumGetSet();
+
+            tgs.CheckPreProcessorSetter();
+
         }
         static void printTortoise() {
             Tortoise Seychelles = new Tortoise(200, true, "Aldabra", "Hard Shell");

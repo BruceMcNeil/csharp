@@ -27,3 +27,4 @@
 /Users/cecilymcneil/__dev/csharp/obj/Debug/net8.0/csharp.pdb
 /Users/cecilymcneil/__dev/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
 /Users/cecilymcneil/__dev/csharp/obj/Debug/net8.0/ref/csharp.dll
+/Users/cbm010/__dev/csharp/obj/Debug/net8.0/csharp.sourcelink.json
