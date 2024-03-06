@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cbm010/__dev/csharp/csharp.csproj": {}
+    "/Users/cecilymcneil/__dev/csharp/csharp.csproj": {}
   },
   "projects": {
-    "/Users/cbm010/__dev/csharp/csharp.csproj": {
+    "/Users/cecilymcneil/__dev/csharp/csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cbm010/__dev/csharp/csharp.csproj",
+        "projectUniqueName": "/Users/cecilymcneil/__dev/csharp/csharp.csproj",
         "projectName": "csharp",
-        "projectPath": "/Users/cbm010/__dev/csharp/csharp.csproj",
-        "packagesPath": "/Users/cbm010/.nuget/packages/",
-        "outputPath": "/Users/cbm010/__dev/csharp/obj/",
+        "projectPath": "/Users/cecilymcneil/__dev/csharp/csharp.csproj",
+        "packagesPath": "/Users/cecilymcneil/.nuget/packages/",
+        "outputPath": "/Users/cecilymcneil/__dev/csharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/cbm010/.nuget/NuGet/NuGet.Config"
+          "/Users/cecilymcneil/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

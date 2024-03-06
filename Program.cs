@@ -9,7 +9,8 @@ namespace Animals {
 
         static void Main(string[] args) {
             Console.WriteLine("Hello, World!"); 
-            doSomething();      
+            doSomething(); 
+            printTortoise();     
         }
 
         static void doSomething() {
@@ -41,6 +42,10 @@ namespace Animals {
                 uColor: "brown", true, 12.5, "neigh"
             );
             neigh.horseProperties();
+        }
+        static void printTortoise() {
+            Tortoise Seychelles = new Tortoise(200, true, "Aldabra", "Hard Shell");
+            Seychelles.PrintProperties();
         }
     }
 }
